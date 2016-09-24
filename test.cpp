@@ -1,6 +1,3 @@
-
-test1
-test1
 #include <iostream>
 using namespace std;
 int i = 1;
