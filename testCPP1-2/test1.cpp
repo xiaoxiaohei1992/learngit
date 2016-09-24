@@ -1,8 +1,11 @@
 test1
+test1
+test1
+test1
 #include <iostream>
 using namespace std;
 int i = 1;
-
+test1
 int main()
 {
     int i = 'a';
@@ -13,4 +16,5 @@ int main()
     int *p = ia[0];
     cout<<(*p + 1)<<endl;
     return 0;
+	test1
 }
